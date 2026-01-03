@@ -20,7 +20,7 @@
             bindings = <
                 &bt BT_CLR     &kp F1      &kp F2      &kp F3      &kp F4  &kp F5      &kp F6      &kp F7      &kp F8      &kp F9      &kp F10      &kp F11   &kp F12
                 &kp CAPS     &bt BT_SEL 0       &bt BT_SEL 1       &bt BT_SEL 2       &kp R   &kp T       &kp Y       &kp U       &kp I       &kp O       &kp P       &kp UP_ARROW    &kp RBKT
-                &kp LCTRL   &out OUT_TOG       &kp S       &kp D       &kp F   &kp G       &kp H       &kp J       &kp PG_UP       &kp HOME       &kp LEFT_ARROW    &kp RIGHT_ARROW     &kp RET
+                &kp LCTRL   &out OUT_TOG    &kp S    &kp D       &kp F   &kp G       &kp H       &kp J       &kp PG_UP       &kp HOME       &kp LEFT_ARROW    &kp RIGHT_ARROW     &kp RET
                 &kp LSHIFT  &kp Z       &kp X       &bt BT_CLR       &kp V   &kp B       &kp N       &kp M       &kp PG_DN   &kp END     &kp DOWN_ARROW    &kp RSHIFT  &mo 1 
                 &mo 1       &kp LGUI    &kp LALT    &kp SPACE   &mo 1   &kp SPACE   &kp RALT    &kp RGUI    &mo 1       &kp BSLH    &kp DEL   &kp BSPC
             >;
